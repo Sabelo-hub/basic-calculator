@@ -43,10 +43,10 @@ form .display{
 
 form .display input{
     text-align: right;
-    /*flex: 1;*/
+    flex: 1;
     font-size: 45px;
     box-shadow: none;
-    width: 100%;
+    width: 300px;
 }
 
 form input.equal{
